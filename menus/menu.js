@@ -3,7 +3,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ┌═══════════════
 ║           ⬕•P7 BOT•⬔
 ║➢ Para me add em grp digite
-║➢  ${prefix}convite + link do seu grupo
+║➢  ${prefix}convite (link do seu grupo)
 ╚ ══════════════
 
 ┌═══════════════
@@ -55,20 +55,56 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╚─══════════════
 
 ┌══════════════
-║➢ ${prefix}play
-║➢ ${prefix}tiktok +link
+║➢ ${prefix}play (pesquisa ou link)
+║➢ ${prefix}play2 (pesquisa ou link)
 ║➢ ${prefix}play3
-║➢ ${prefix}play4
 ║➢ ${prefix}playmp4
 ║➢ ${prefix}ytsearch
 ║➢ ${prefix}ytmp4
 ║➢ ${prefix}ytmp3
+║➢ ${prefix}instagramvideo
+║➢ ${prefix}instagramigtv
+║➢ ${prefix}instagramfoto
+║➢ ${prefix}instagramstory
+║➢ ${prefix}tiktok +link
+║➢ ${prefix}tikto2 +link
 ║➢ ${prefix}facemp4
-║➢ ${prefix}playstore
+║➢ ${prefix}playstore (nome app)
+║➢ ${prefix}celular (nome do modelo)
 ║➢ ${prefix}mediafire (url)
 ║➢ ${prefix}imgpralink
 ║➢ ${prefix}videopralink
+║➢ ${prefix}buscarfilme (nome do filme)
+║➢ ${prefix}anime (nome do anime)
+║➢ ${prefix}noticias
+║➢ ${prefix}localizaip (Endereço ip)
+║➢ ${prefix}covidbr
+║➢ ${prefix}covid19
 ║ 
+╚❑➤─|⬕•P7 BOT•⬔|─➤°࿐
+
+┌═══════════════
+║     ⬕•+18•⬔
+║ Necessita nsfw ativo
+╚─══════════════
+
+┌═══════════════
+║➢ ${prefix}xvideos (oq pesquisar)
+║➢ ${prefix}xvlink (link)
+║➢ ${prefix}xnxx (oq pesquisar)
+║➢ ${prefix}xnxxilink (link)
+║➢ ${prefix}spankgang (oq pesquisar)
+║➢ ${prefix}spankgangilink (link)
+║➢ ${prefix}hentai (nome)
+║➢ ${prefix}quadrinhos18 (nome)
+║➢ ${prefix}plaq (nome)
+║➢ ${prefix}plaq1 (nome)
+║➢ ${prefix}plaq2 (nome)
+║➢ ${prefix}plaq3 (nome)
+║➢ ${prefix}plaq4 (nome)
+║➢ ${prefix}plaq5 (nome)
+║➢ ${prefix}placaloli (nome)
+║
 ╚❑➤─|⬕•P7 BOT•⬔|─➤°࿐
 
 ┌═══════════════
@@ -130,18 +166,22 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 ╚─══════════════
 
 ┌═══════════════
+║➢ ${prefix}getinfogp (link do GP)
 ║➢ ${prefix}gtts (linguagem)
 ║➢ ${prefix}tagme
 ║➢ ${prefix}emoji
 ║➢ ${prefix}tabela
 ║➢ ${prefix}conselhobiblico
 ║➢ ${prefix}simi (fale algo) 
+║➢ ${prefix}simivoz (fale algo) 
 ║➢ ${prefix}perfil
 ║➢ ${prefix}wallpaperanime
 ║➢ ${prefix}tomp3 
 ║➢ ${prefix}frases
 ║➢ ${prefix}fazernick (nick)
 ║➢ ${prefix}bot
+║➢ ${prefix}wa.me 
+║➢ ${prefix}wa.me2 (marcar amigo e texto) 
 ║
 ╚❑➤─|⬕•P7 BOT•⬔|─➤°࿐
 

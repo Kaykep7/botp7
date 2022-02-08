@@ -1,7 +1,7 @@
 {
   "name": "P7-BOT",
-  "version": "1.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "version": "2.0",
+  "description": "Inteligência artificial feita por Gusta4321 e P7!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -14,15 +14,15 @@
   "keywords": [
     "k"
   ],
-  "author": "Aleatory",
+  "author": "P7",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
+    "url": "git+https://github.com/Kaykep7/botp7.git"
   },
   "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
+    "url": "https://github.com/Kaykep7/botp7/issues"
   },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
+  "homepage": "https://github.com/Kaykep7/botp7/readme",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",

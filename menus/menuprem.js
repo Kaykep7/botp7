@@ -8,6 +8,9 @@ return `
 │⎘⃯⃗➢ ${prefix}ddd (numero)
 │⎘⃯⃗➢ ${prefix}cep (numero)
 │⎘⃯⃗➢ ${prefix}gerarcpf
+│⎘⃯⃗➢ ${prefix}validarcpf (numero do cpf)
+│⎘⃯⃗➢ ${prefix}gerarcnpj
+│⎘⃯⃗➢ ${prefix}validarcnpj (numero do cnpj)
 │⎘⃯⃗➢ ${prefix}premiumlist
 │⎘⃯⃗➢ ${prefix}rename 
 │⎘⃯⃗➢ ${prefix}metadinha

@@ -4,6 +4,7 @@ const adms = (prefix) => {
 │
 │⎘⃯⃗➢ ${prefix}kick [@] (pra-remover) 
 │⎘⃯⃗➢ ${prefix}ban (responder-mensagem)
+│⎘⃯⃗➢ ${prefix}unban (responder-mensagem)
 │⎘⃯⃗➢ ${prefix}promover [@] (promover a adm)
 │⎘⃯⃗➢ ${prefix}rebaixar [@] (rebaixar adm)
 │⎘⃯⃗➢ ${prefix}totag (menciona-algo)
